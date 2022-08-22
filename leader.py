@@ -1,4 +1,4 @@
-#leaders from last to fast
+#leaders 
 def leader(arr, size):
     max_from_left = arr[size-1]
     print(max_from_left, end=' ')
