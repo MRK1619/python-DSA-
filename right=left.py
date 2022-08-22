@@ -1,4 +1,4 @@
-#find a point where left sum equal right sum
+#find a middle number where left sum equal right sum
 def equilibram(arr,size):
     i,start,end,left_sum,right_sum=0,0,size-1,0,0
     for i in range(size):
