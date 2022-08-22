@@ -18,4 +18,5 @@ def equilibram(arr,size):
         return arr[0]
 arr=list(map(int,input().split()))
 size=len(arr)
+
 print(equilibram(arr,size))
