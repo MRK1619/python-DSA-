@@ -1,3 +1,4 @@
+#sort as 0 1 2
 def sort012(arr,size):
     low,mid,high=0,0,size-1
     while mid <= high:
